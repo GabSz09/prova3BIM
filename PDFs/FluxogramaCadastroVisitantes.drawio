@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="qBSp8GkO55VDd1n-nlVC">
+    <mxGraphModel dx="3527" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-3" edge="1" parent="1" source="vhBSh1DfTDOB1dE8nbbL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vhBSh1DfTDOB1dE8nbbL-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Início&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="290" x="250" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-5" edge="1" parent="1" source="vhBSh1DfTDOB1dE8nbbL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vhBSh1DfTDOB1dE8nbbL-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Preencher dados requeridos para visita&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="262.5" x="263.75" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-7" edge="1" parent="1" source="vhBSh1DfTDOB1dE8nbbL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vhBSh1DfTDOB1dE8nbbL-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-26" edge="1" parent="1" source="vhBSh1DfTDOB1dE8nbbL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="vhBSh1DfTDOB1dE8nbbL-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Visitante autorizado?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="290" x="250" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-11" edge="1" parent="1" source="vhBSh1DfTDOB1dE8nbbL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="vhBSh1DfTDOB1dE8nbbL-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Atualizar status para: Não liberado&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="195" x="632" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-41" edge="1" parent="1" source="vhBSh1DfTDOB1dE8nbbL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="vhBSh1DfTDOB1dE8nbbL-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Emitir alerta no sistema&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="174.5" x="890" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Não&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="526.25" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-32" edge="1" parent="1" source="vhBSh1DfTDOB1dE8nbbL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="vhBSh1DfTDOB1dE8nbbL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-34" edge="1" parent="1" source="vhBSh1DfTDOB1dE8nbbL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-355.5" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Tempo de entrada registrado?&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="290" x="-240" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-42" edge="1" parent="1" source="vhBSh1DfTDOB1dE8nbbL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="vhBSh1DfTDOB1dE8nbbL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-31" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Erro: Tempo de entrada é obrigatório&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="174.5" x="-182.25" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-44" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-530" y="575" as="sourcePoint" />
+            <mxPoint x="-637.25" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Não&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-90" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Sim&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="203.75" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Sim&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-280" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FIM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="208.25" x="1191.75" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-47" edge="1" parent="1" source="vhBSh1DfTDOB1dE8nbbL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="vhBSh1DfTDOB1dE8nbbL-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-45" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Atualizar status para: Liberado&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="184.5" x="-820" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FIM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="208.25" x="-1120" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="vhBSh1DfTDOB1dE8nbbL-49" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Salvar tempo de entrada&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="230" x="-550" y="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
